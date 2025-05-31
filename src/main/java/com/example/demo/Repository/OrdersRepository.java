@@ -6,5 +6,5 @@ import java.util.List;
 
 @Repository
 public class OrdersRepository {
-    private List<Order> orders;    
+    private List<Order> orders;
 }
