@@ -6,9 +6,6 @@ import java.util.List;
 
 @Repository
 public class OrdersRepository {
-
-
-
     private List<Order> orders;
 
     public static void main(String[] args) {
